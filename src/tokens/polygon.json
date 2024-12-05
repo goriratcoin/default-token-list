@@ -296,6 +296,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "name": "Gorirat",
+    "address": "0x5ECff4E9B2d6d9E932ED927528458900a66555f7",
+    "symbol": "GRT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://github.com/goriratcoin/gorirat/blob/b6471e249a3c2669f806a718ffed16c5fcf12507/Logopit_1733437899361.png"
+  },
+  {
     "chainId": 137,
     "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
     "name": "LayerZero",
